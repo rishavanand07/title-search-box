@@ -1,0 +1,29 @@
+tr.header th{
+    width: 31%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  #myInput{
+    width: 100%;
+    font-size: x-large;
+    margin-bottom: 30px;
+  }
+  .Edit{
+    margin-top: 10px;
+    font-size: 25px;
+    width: 20%;
+  }
+  .Delete{
+   
+    font-size: 25px;
+    width: 20%;
+  }
